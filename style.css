@@ -1,4 +1,6 @@
 body {
-  background-color: gainsboro;
+  font-family: "Comic Sans MS", Helvetica, Arial, sans-serif;
+  background-color: rgb(185, 220, 255);
   min-height: 100vh;
+  font-size: 60px;
 }

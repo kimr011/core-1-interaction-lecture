@@ -1,6 +1,6 @@
 body {
-  font-family: "Comic Sans MS", Helvetica, Arial, sans-serif;
-  background-color: rgb(185, 220, 255);
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: blueviolet;
   min-height: 100vh;
-  font-size: 60px;
+  font-size: 50px;
 }
